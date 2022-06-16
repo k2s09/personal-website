@@ -21,8 +21,6 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-<<<<<<< HEAD
-=======
 - name: timeToRead
   type: number
   label: Read Time
@@ -33,7 +31,6 @@ fields:
     min: 
     max: 
     step: 
->>>>>>> 9e5362259e4d2eb674f1a2cbbe0f7841ab06f6fe
 - name: hero
   type: file
   config:

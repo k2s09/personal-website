@@ -2,11 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 hero: /images/hero-3.jpg
-excerpt: "A default excerpt"
-timeToRead: 5
-authors:
-  - Dennis Brotzky
+excerpt:
 draft: true
 ---
-
-Some default content

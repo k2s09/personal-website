@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://kavinsood.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Personal Website"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -18,4 +18,4 @@ social:
   dribbble: "#"
   youtube: "#"
 taxonomies:
-  author: authors
+  author: Kavin Sood

@@ -1,11 +1,14 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8fd7da5f-0c4d-4a43-9e23-2d1baf0d35cc/deploy-status)](https://app.netlify.com/sites/hugo-novela-forestry/deploys)
 
-# Portfolio and Blog Website
+# Hugo Novela Forestry Starter
 
 A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://www.narative.co/labs/novela/)
 
 ![](images/tn.png)
 
+<a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.80.0">
+    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
+</a>
 
 ## Prerequisites
 
@@ -33,6 +36,12 @@ Import your repository in [Netlify](https://netlify.com)
 4. Set `HUGO_VERSION` to `0.65.3` or above
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
+
+## Deploy on Vercel
+
+Import your repository in [Vercel](https://vercel.com/new/git/third-party)
+
+[Add a bash script](https://gist.github.com/DirtyF/4f89704ecd619c0dcd439d74115da542#file-hugo_build-sh) and [build steps via a `vercel.json` file](https://gist.github.com/DirtyF/4f89704ecd619c0dcd439d74115da542#file-vercel-json) in your repository in order to build the site.
 
 ## Development
 
@@ -98,7 +107,8 @@ Add the name of the author to the "authors" field:
 
 ```yaml
 authors:
-  - Full Name
+  - Dennis Brotzky
+  - Thiago Costa
 ```
 ### Newsletter call to action
 

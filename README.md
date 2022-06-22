@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/47bcb497-a8f6-444b-9a16-a2f84ca5bf76/deploy-status)](https://app.netlify.com/sites/super-naiad-28284e/deploys)
 
-# Hugo Novela Forestry Starter
+# Personal Website
 
 A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://www.narative.co/labs/novela/)
 
@@ -17,7 +17,7 @@ This starter is importing the theme as a [Hugo Module](https://gohugo.io/hugo-mo
 
 ![Forestry user interface](images/novela-forestry.png)
 
-This starter is ready to be imported into [Forestry](https://forestry.io)  ✨.
+This starter is ready to be imported into [Forestry](https://forestry.io).
 
 Any changes you save in the CMS will be commited back to your Git repository.
 

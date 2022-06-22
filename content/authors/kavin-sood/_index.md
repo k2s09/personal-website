@@ -14,7 +14,7 @@ social:
     url: https://github.com/k2s09
   - title: Instagram
     url: https://www.instagram.com/_kavin.05/
-  - title: Twitter
+  - title: Twitters
     url: https://twitter.com/k2s_15
   - title: LinkedIn
     url: https://www.linkedin.com/in/kavin-sood-a36505222

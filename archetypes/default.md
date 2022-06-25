@@ -5,8 +5,8 @@ hero: /images/hero-3.jpg
 excerpt: "A default excerpt"
 timeToRead: 5
 authors:
-  - Dennis Brotzky
+  - Kavin Sood
 draft: true
 ---
 
-Some default content
+Hi, I'm Kavin. Dank Memer and Tech Enthusiast.

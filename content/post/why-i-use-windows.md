@@ -4,7 +4,7 @@ authors: []
 title: Why I use Windows
 excerpt: I am a huge Linux fan, but I still use Windows. Here's why.
 date: 2022-06-24T18:30:00+00:00
-hero: ''
+hero: "/images/llugk8ad1ezx7ju4dq2p.webp"
 draft: true
 
 ---

@@ -8,4 +8,4 @@ My interests are at the intersection of math, science, computer science, and inf
 
 Fast forward to today, I am the co-founder and director of a National Tech Symposium, President of my School's Tech Club, and am part of the Student Council as the IT Captain of my School.
 
-My focus these days is working towards getting into a good college, following my passion for technology, and becoming a better person.
+My current focus is working towards getting into a good college, following my passion for technology, and becoming a better person.

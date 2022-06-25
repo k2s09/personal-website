@@ -1,14 +1,10 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd7da5f-0c4d-4a43-9e23-2d1baf0d35cc/deploy-status)](https://app.netlify.com/sites/hugo-novela-forestry/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47bcb497-a8f6-444b-9a16-a2f84ca5bf76/deploy-status)](https://app.netlify.com/sites/super-naiad-28284e/deploys)
 
-# Portfolio and Blog Website
+# Portfolio and Blogs Website
 
 A port of [Narative](https://www.narative.co/)'s beautiful Gatsby theme [Novela](https://www.narative.co/labs/novela/)
 
 ![](images/tn.png)
-
-<a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.80.0">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
-</a>
 
 ## Prerequisites
 
@@ -21,7 +17,7 @@ This starter is importing the theme as a [Hugo Module](https://gohugo.io/hugo-mo
 
 ![Forestry user interface](images/novela-forestry.png)
 
-This starter is ready to be imported into [Forestry](https://forestry.io)  ✨.
+This starter is ready to be imported into [Forestry](https://forestry.io).
 
 Any changes you save in the CMS will be commited back to your Git repository.
 
@@ -69,11 +65,10 @@ Add a similar file to your content directory and Front Matter example.
 ```yaml
 # /content/authors/firstname-lastname/_index.md
 ---
-title: Kavin Sood
+title: Full Name
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/me.jpg
+  Written by You. This is where your author bio lives. Share your work, your joys and of course, your Twitter handle.
+avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
   - title: github
@@ -95,7 +90,7 @@ Add the name of the author to the "authors" field:
 
 ```yaml
 authors:
-  - firstname lastname
+  - Kavin Sood
 ```
 ### Newsletter call to action
 

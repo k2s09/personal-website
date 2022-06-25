@@ -9,7 +9,6 @@ bio: |
 
   My main focus these days is working towards getting into a good college, pursuing my passion in the field of Tech, and becoming a better individual.
 avatar: /images/me.jpg
-featured: true
 social:
   - title: github
     url: https://github.com/k2s09

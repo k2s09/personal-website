@@ -40,5 +40,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/why-i-use-windows.md

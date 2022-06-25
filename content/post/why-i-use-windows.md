@@ -23,4 +23,6 @@ I am a huge Linux and FOSS fan. I've used everything from Debian, Arch, Fedora a
 
 7) Running Linux on Windows is much easier than the other way round. Microsoft has created an expansive ecosystem that runs Linux and Android software on Windows in a hassle-free way. WSL (Windows Subsystem for Linux) is a mature project and is suitable for development and testing of Linux. It provides the most seamless integration between the two operating systems. Also, I am not comfortable with using virtualisation for the software exclusive to Windows if I were to use Linux.
 
-8) It doesn’t affect my conscience using Windows. I am stoic on this matter. I keep myself clear from extreme views by telling myself to touch grass. It is good having opinionated software. Just my thoughts.
+8) It doesn’t affect my conscience using Windows. I am stoic on this matter. I keep myself clear from extreme views by telling myself to touch grass. It is good having opinionated software. 
+
+Just my thoughts.

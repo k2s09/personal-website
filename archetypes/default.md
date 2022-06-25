@@ -2,11 +2,11 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 hero: /images/hero-3.jpg
-excerpt: "A default excerpt"
+excerpt: "This is the excerpt"
 timeToRead: 5
 authors:
-  - Dennis Brotzky
+  - Kavin Sood
 draft: true
 ---
 
-Some default content
+Hello there general kenobi

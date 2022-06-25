@@ -5,7 +5,6 @@ title: Why I use Windows
 excerpt: I am a huge Linux fan, but I still use Windows. Here's why.
 date: 2022-06-24T18:30:00+00:00
 hero: "/images/llugk8ad1ezx7ju4dq2p.webp"
-draft: true
 
 ---
 I am a huge Linux and FOSS fan. I've used everything from Debian, Arch, Fedora and their derivatives. I've used Pop OS, Manjaro, and Fedora as my primary OS without Windows. I am enthusiastic and passionate on security and privacy. I read news of the latest developments in Wayland, DE's, and the Linux Kernel, with all of that said, I've been a Windows user and will continue to be one primarily. Here's why:

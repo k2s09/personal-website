@@ -1,8 +1,7 @@
 ---
 title: Kavin Sood
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Hi, I'm Kavin. Dank Memer and Tech Enthusiast.
 avatar: /images/me.jpg
 featured: true
 social:

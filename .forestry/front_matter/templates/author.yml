@@ -19,7 +19,7 @@ fields:
 - name: avatar
   type: file
   config:
-    maxSize: 
+    maxSize: 250
   label: Avatar Image
 - name: social
   type: field_group_list

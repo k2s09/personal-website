@@ -36,7 +36,7 @@ That's it, now your site gets deployed automatically on `git push` or when savin
 ## Development
 
 1. Install [git](https://git-scm.com/), [go](https://go.dev/doc/install) and [hugo](https://gohugo.io/getting-started/installing/) binaries.
-2. <code>hugo server</code>
+2. Run <code>hugo server</code> in base directory of project.
 
 ## Customization
 

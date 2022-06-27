@@ -2,14 +2,10 @@
 title: About
 ---
 
-Hey! I’m Kavin, the guy that runs this place. Tech Enthusiast and Dank Memer.
+Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
 
-  I’m a senior in High School in India in the STEM Field. I enjoy creating things that live on the internet.
+Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
-  My interests lie at the intersection of Math, Science, Computer Science, and Information Technology. I’m attracted to STEM because of my organized, analytical and goal-oriented nature. In addition to my academic achievements, I am proud to actively contribute to the Tech Cohort of our time.
+Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-  Fast forward to today, and I've co-founded and directed a National Tech Symposium, founded and presided over my School's Tech Club, and become the IT Captain of my School.
-
-  My main focus these days is working towards getting into a good college, pursuing my passion in the field of Tech, and becoming a better individual.
-
-  By the way, I love playing basketball, football, swimming, listening to Dua Lipa, and taking long walks at night.
+Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.

@@ -13,6 +13,7 @@ bio: |-
 
   By the way, I love playing basketball, football, swimming, listening to Dua Lipa, and taking long walks at night.
 avatar: "/images/homepage_me.jpg"
+featured: true
 social:
 - title: instagram
   url: https://www.instagram.com/_kavin.05
@@ -24,6 +25,4 @@ social:
   url: https://www.youtube.com/channel/UCbDUe6VFWHMKcd-NO00SGAg
 - title: medium
   url: https://medium.com/@moneykavinsood
-featured: true
-
 ---

@@ -1,0 +1,21 @@
+baseURL: "https://kavinsood.com"
+languageCode: "en-us"
+title: "Hugo Novela"
+pygmentsstyle: 'monokai'
+metaDataFormat: yaml
+
+# Theme settings
+# theme: novela
+module:
+  imports:
+    - path: "github.com/forestryio/hugo-theme-novela"
+paginate: 6
+social:
+  twitter: "https://twitter.com/_k2s15"
+  github: "https://github.com/k2s09"
+  instagram: "https://www.instagram.com/_kavin.05/"
+  linkedin: "https://www.linkedin.com/in/kavin-sood-a36505222/"
+  dribbble: "#"
+  youtube: "https://www.youtube.com/channel/UCbDUe6VFWHMKcd-NO00SGAg"
+taxonomies:
+  author: authors

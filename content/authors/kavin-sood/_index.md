@@ -22,7 +22,7 @@ social:
   - title: github
     url: https://github.com/k2s09
   - title: linkedin
-    url: https://www.linkedin.com/in/kavin-sood-a36505222/
+    url: https://www.linkedin.com/in/kavin-sood-a36505222
   - title: youtube
     url: https://www.youtube.com/channel/UCbDUe6VFWHMKcd-NO00SGAg
 ---

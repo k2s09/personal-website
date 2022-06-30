@@ -8,7 +8,6 @@ authors:
   - Kavin Sood
 
 ---
-
 Fast charging is a revolutionary invention that has changed the world. It has changed the way people use their devices.
 
 # Phones

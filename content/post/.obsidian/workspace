@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "688d871b7adb03e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63fa696a230cb60",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "718d44fd83596caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "871514cd86926ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "446ba65eec155c0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88a6ae7e43ed75e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3c8888ce95404de",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b9bb65b11e3dc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b56255be56ae6e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a63fa696a230cb60",
+  "lastOpenFiles": [
+    "2022-06-28-why-windows.md",
+    "2022-06-28-typing.md",
+    "2022-06-28-the-path-of-moderation.md",
+    "2022-06-28-quitting-meat.md",
+    "2022-06-28-fast-charging-in-phones.md",
+    "2022-06-28-fast-charging-in-cars.md",
+    "2022-06-28-browsers.md",
+    "2022-06-28-best-friend.md"
+  ]
+}

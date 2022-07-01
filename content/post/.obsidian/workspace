@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a63fa696a230cb60",
+        "id": "812cd6947ea84972",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,15 +82,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a63fa696a230cb60",
+  "active": "812cd6947ea84972",
   "lastOpenFiles": [
+    "2022-06-28-best-friend.md",
     "2022-06-28-why-windows.md",
     "2022-06-28-typing.md",
     "2022-06-28-the-path-of-moderation.md",
     "2022-06-28-quitting-meat.md",
     "2022-06-28-fast-charging-in-phones.md",
     "2022-06-28-fast-charging-in-cars.md",
-    "2022-06-28-browsers.md",
-    "2022-06-28-best-friend.md"
+    "2022-06-28-browsers.md"
   ]
 }

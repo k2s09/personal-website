@@ -3,7 +3,7 @@ title: Fast Charging in Phones
 date: 2022-06-28
 hero: /images/Screenshot 2022-06-27 135533.png
 excerpt: Fast charging is a revolutionary invention that has changed the world. It has changed the way people use their devices. 
-timeToRead: 10
+timeToRead: 5
 authors:
   - Kavin Sood
 

@@ -3,7 +3,7 @@ title: Best Friend
 date: 2022-06-28
 hero: /images/Be-your-own-best-friend.png
 excerpt: Do you need a best friend? Yes. Yourself. *A wholesome essay on building confidence.* 
-timeToRead: 8
+timeToRead: 9
 authors:
   - Kavin Sood
 

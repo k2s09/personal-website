@@ -3,7 +3,7 @@ title: The Path Of Moderation
 date: 2022-06-28
 hero: /images/120.jpg
 excerpt: The Path of Moderation is my biggest life philosophy. It is a way of living life. 
-timeToRead: 5
+timeToRead: 3
 authors:
   - Kavin Sood
 

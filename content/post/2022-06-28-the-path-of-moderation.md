@@ -6,7 +6,6 @@ excerpt: The Path of Moderation is my biggest life philosophy. It is a way of li
 timeToRead: 3
 authors:
   - Kavin Sood
-
 ---
 
 As my biggest life philosophy, I believe in The Path of Moderation. Truly.

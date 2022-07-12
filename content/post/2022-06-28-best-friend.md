@@ -6,7 +6,6 @@ excerpt: Do you need a best friend? Yes. Yourself. *A wholesome essay on buildin
 timeToRead: 9
 authors:
   - Kavin Sood
-
 ---
 
 Do you need a best friend? Yes. Yourself. *A wholesome essay on building confidence.*

@@ -6,7 +6,6 @@ excerpt: Taking a step back from the overtly negative scene of social media and 
 timeToRead: 3
 authors:
   - Kavin Sood
-
 ---
 
 This is a reminder and wake up call to use social media and relish it’s benefits and, stop worrying too much about the negatives.

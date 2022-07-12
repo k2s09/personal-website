@@ -6,7 +6,6 @@ excerpt: In this article, I debate the antics of quitting meat.
 timeToRead: 4
 authors:
   - Kavin Sood
-
 ---
 
 In this article, I debate the antics of quitting meat. In the end, I do not.

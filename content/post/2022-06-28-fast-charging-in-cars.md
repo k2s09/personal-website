@@ -6,7 +6,6 @@ excerpt: Advancement in fast charging technology is accelerating the mass adopti
 timeToRead: 13
 authors:
   - Kavin Sood
-
 ---
 
 # Introduction

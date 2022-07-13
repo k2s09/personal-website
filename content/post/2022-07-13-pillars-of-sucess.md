@@ -26,13 +26,14 @@ Now shut up and listen up, you stupid lizard brain.
 
 To succeed in anything, you need to nail down two things - External factors and internal factors. 
 
-1. External Factors - There are things in life that come from within. This is not it. External factors are the ways that the evil world lays its influence on your life. You can definitely do things about it though.
-	1. Food
-	2. Sleep
-	3. Affection
-2. Internal Factors - These are the factors that come from within - about how your mind and soul is. These are not as directly impacted by the world because once you are in your late teens and adulthood, the degree of impact that anyone can have on your mind is really up to you. That complete sense of control over your mind is the biggest source of motivation for many things in life.
-	1. Passion
-	2. Vision
-	3. Dedication
+1. External Factors - There are things in life that come from within. This is not it. External factors are the ways that the evil world lays its influence on your life. You can definitely do things about it though.  
+	1. Food  
+	2. Sleep  
+	3. Affection  
+  
+2. Internal Factors - These are the factors that come from within - about how your mind and soul is. These are not as directly impacted by the world because once you are in your late teens and adulthood, the degree of impact that anyone can have on your mind is really up to you. That complete sense of control over your mind is the biggest source of motivation for many things in life.  
+	1. Passion  
+	2. Vision  
+	3. Dedication  
 
 We humans are really simple beings. A lack of success in anything in your life can be explained to be caused by one of these factors. Self reflect and identify the issue and work towards fixing it. Anything can be accomplished in your life. Godspeed!

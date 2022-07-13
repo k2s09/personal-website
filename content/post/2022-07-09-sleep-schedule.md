@@ -6,6 +6,7 @@ excerpt: Doing scientific experiments and fixing your sleep schedule
 timeToRead: 4
 authors:
   - Kavin Sood
+
 ---
 
 I need to fix my goddamn sleep schedule.

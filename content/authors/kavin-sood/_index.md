@@ -1,7 +1,7 @@
 ---
 title: Kavin Sood
 bio: |
-  I'm Kavin, Tech Enthusiast and Dank Memer. I'm a senior in High School pursuing Math and Science with a keen interest in CS, IT and Robotics. I am the Founder and Director of SHISTECH and the IT Captain of my School. I love playing basketball, swimming, playing Doom, Halo and listening to Dua Lipa.
+  I'm Kavin, Tech Enthusiast and Dank Memer. I'm a senior in High School pursuing Math and Science with a keen interest in CS, IT and Robotics. I am the Founder and Director of SHISTECH and the IT Captain of my School. I love playing basketball, swimming, playing Doom, Halo and listening to Dua Lipa!
 avatar: /images/me.png
 featured: true
 social:

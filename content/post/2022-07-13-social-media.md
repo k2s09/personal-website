@@ -1,7 +1,7 @@
 ---
 title: Social Media
 date: 2022-07-13
-hero: /images/Be-your-own-best-friend.png
+hero: /images/socmed.webp
 excerpt: Taking a step back from the overtly negative scene of social media and relishing its benefits.
 timeToRead: 3
 authors:

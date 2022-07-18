@@ -1,7 +1,7 @@
 ---
 title: Windows Master Installation 
 date: 2022-07-18
-hero: /images/windows11.webp
+hero: /images/windows-on-different-devices-cropped.webp
 excerpt: An exhaustive guide for installing Windows 11
 timeToRead: 4
 authors:

@@ -19,33 +19,36 @@ authors:
 ## Installation 
 1. Delete all partitions 
 2. Perform clean installation 
-3. Setup Microsoft Account with Preferences
+3. Setup Microsoft Account with Preferences 
 
 ## Post Installation 
-### Drivers
+### Drivers 
 1. Windows Updates 
-2. HP Drivers and Support Assistant 
-3. IntelDriver and Support Assistant
-4. Nvidia GeForce Experience
+2. HP Drivers and Support Assistant / Your OEM
+3. Intel Driver and Support Assistant / AMD Drivers
+4. Nvidia GeForce Experience / Radeon Drivers
 
 ### Apps
-1. Edge / Chrome / Brave 
-2. Whatsapp 
-3. Spotify 
-4. Discord 
-5. Bitwarden 
-6. Zoom 
-7. Teams for Work 
-8. Obsidian 
-9. Office 2021 
-10. 7Zip 
+1. Edge / Chrome / Brave / Firefox
+2. Whatsapp
+3. Spotify
+4. Discord
+5. Bitwarden
+6. Zoom
+7. Teams for Work
+8. Notion / Obsidian / Logseq
+9. Office
+10. 7-Zip / PeaZip
 11. Windows Mail
 12. Phone Link
-13. Notepads 
-14. Telegram Desktop 
+13. Notepads
+14. Telegram Desktop
+15. Steam
+16. PowerToys
+17. Calibre
 
 ### Software Development
-1. Microsoft OpenJDK 17 
+1. Microsoft OpenJDK 17
 2. Python 3 
 3. NodeJS 
 4. Git For Windows 
@@ -53,9 +56,8 @@ authors:
 6. Windows Terminal 
 7. Neovim 
 8. VSCode 
-9. IntelliJ 
-10. PyCharm
-11. BlueJ
+9. JetBrains Toolbox
+10. BlueJ
 
 ### Creative Production
 1. Photoshop / GIMP

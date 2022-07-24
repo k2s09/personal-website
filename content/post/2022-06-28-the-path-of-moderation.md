@@ -16,10 +16,12 @@ It is simple enough, but I like to use it in everything. Modern radical and extr
 
 Also, this will be an ever-ongoing essay. I will continue to expand this topic in moods of heightened sensitivity, ponderings, reveries and philosophy.
 
-* Being moderate makes you friendly and relatable with a wider group of people in the world. You become a people's person, helping fulfilling the lives of not only yourself, but of the ones around you and spreading positivity. Let's face it, we all could help a dose of happiness and positivity. 
-* Being moderate makes you *kind*. Kind to your own body and mind.
-* You don't break relations with people over your thoughts and opinions. Being moderate, you learn to co-exist with others in your community
-* Being moderate gives you no weaknesses. You do not accept stereotypes on either side of the spectrum, thus being the strongest there is, in the end. A simple example is being an introvert or an extrovert. Simply accept neither as defining you. Then you internalise what that means for you and enjoy the benefits of both sides ☺️.
-* In the end, there is nothing is bigger than life. Being simple and humble comes with being moderate. Nothing matters.
-* Being moderate also helps you be rational by not making irrational decisions.
-* The world does not reward doing the right thing. Nature is a wild game, played by animals. *"When you play all sides, you come out on top."* This is also the mentality of CEOs, the bosses of corporations, who work only towards their business gains. This shows that even hyper-successful people follow moderation.
+- Being moderate makes you friendly and relatable with a wider group of people in the world. You become a people's person, helping fulfilling the lives of not only yourself, but of the ones around you and spreading positivity. Let's face it, we all could help a dose of happiness and positivity.
+- Being moderate makes you *kind*. Kind to your own body and mind.
+- You don't break relations with people over your thoughts and opinions. Being moderate, you learn to co-exist with others in your community
+- Being moderate gives you no weaknesses. You do not accept stereotypes on either side of the spectrum, thus being the strongest there is, in the end. A simple example is being an introvert or an extrovert. Simply accept neither as defining you. Then you internalise what that means for you and enjoy the benefits of both sides ☺️.
+- In the end, there is nothing is bigger than life. Being simple and humble comes with being moderate. Nothing matters.
+- Being moderate also helps you be rational by not making irrational decisions.
+- The world does not reward doing the right thing. Nature is a wild game, played by animals. *"When you play all sides, you come out on top."* This is also the mentality of CEOs, the bosses of corporations, who work only towards their business gains. This shows that even hyper-successful people follow moderation.
+- Humans follow the path of least resistance. One who doesn't go with the flow of the water doesn't understand the size of the river. We are a small speck in the universe and don't control the universe. It should keep us aware of our mortality and remain on the path of moderation, flowing along.
+- The path of moderation also covets simplicity. Sometimes it's worth not being an academic. Our survival and innate instincts are simple and moderate. They aim to achieve maximum survival. This we should be simple.

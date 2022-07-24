@@ -2,7 +2,7 @@
 title: About
 ---
 
-Hey! I’m Kavin, the guy that runs this place. Tech Enthusiast and Dank Memer.
+Hey! I’m Kavin. Tech Enthusiast and Dank Memer.
 
 I’m a senior in High School in India in the STEM Field. I enjoy creating things that live on the internet.
 

@@ -47,7 +47,6 @@ authors:
 14. Telegram Desktop
 15. Google Messages
 16. VLC 
-17. 
 
 ### Software Development
 
